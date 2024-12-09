@@ -16,7 +16,7 @@ A Python script that displays disk usage in a hierarchical tree view with colore
 
 1. Download the script:
 ```bash
-wget https://raw.githubusercontent.com/yourusername/dstree/main/dstree.py
+wget https://github.com/Tomtomcapo/dstree/blob/main/dstree.py
 ```
 
 2. Make it executable:
